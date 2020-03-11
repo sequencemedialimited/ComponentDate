@@ -3,9 +3,12 @@
   "_type": "page.start",
   "heading": "Component - Date",
   "steps": [
-    "page.date",
-    "page.check-answers",
-    "page.confirmation"
+    "page.date-first",
+    "page.date-second",
+    "page.date-third",
+    "page.date-fourth",
+    "page.date-summary",
+    "page.date-confirmation"
   ],
   "url": "/"
 }
